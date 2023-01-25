@@ -24,3 +24,18 @@ This is a table of the countries I would recommend to visit.
 
 > Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.<br>
 *-Will Ferrell*
+
+---
+### Code Fencing
+
+> How to newline in HTML Button? <https://stackoverflow.com/questions/38048131/how-to-newline-in-html-button>
+
+~~~
+<button>
+  Some
+  <br>
+  Text
+</button>
+~~~
+
+Button With Line Breaks <https://css-tricks.com/snippets/html/button-with-line-breaks/>
