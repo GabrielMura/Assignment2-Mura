@@ -19,7 +19,8 @@ This is a table of the countries I would recommend to visit.
 
 ---
 
-> Knowledge is like underwear. It is useful to have it, but not necessary to show it off. 
+> Knowledge is like underwear. It is useful to have it, but not necessary to show it off.<br>
 *-Bill Murray*
-> Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.
+
+> Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.<br>
 *-Will Ferrell*
